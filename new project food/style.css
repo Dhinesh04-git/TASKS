@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+nav {
+  background-color: darksalmon;
+  color: aliceblue;
+  flex-direction: row;
+  gap: 20px;
+  padding: 15px;
+  margin-top: 5px;
+  display: flex;
+  margin: 10px;
+}
+h4 {
+  color: black;
+}
+.head {
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  color: white;
+  margin-top: 5px;
+  padding: 2px;
+}
+h1 {
+  margin-left: -90px;
+  margin-top: 5px;
+  width: 200px;
+}
+
+.but1 {
+  height: 35px;
+  width: 80px;
+  border-radius: 8px;
+  background-color: green;
+  color: white;
+  margin-top: 5px;
+  padding: 6px;
+}
+
+.para {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  margin-top: 7px;
+  padding-left: 5px;
+}
+.para span {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 6px;
+  margin-top: 5px;
+  margin-right: 9px;
+}
+
+.sea {
+  border-radius: 8px;
+
+  margin-left: 720px;
+  margin-top: 5px;
+  font-size: 16px;
+  padding: 10px;
+}
+.mid {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 22px;
+}
+select {
+  margin-left: 900px;
+}
+section {
+  background-color: lightpink;
+}
+
+.one {
+  border: 2px solid white;
+  border-radius: 20px;
+  width: 250px;
+  margin-top: 22px;
+  height: 84%;
+  min-width: 350px;
+  margin-left: 30px;
+  padding: 20px;
+  background-color: aliceblue;
+  box-shadow: 2px 2px black;
+  margin-left: 20px;
+}
+.o:hover {
+  cursor: pointer;
+}
+
+.o {
+  margin-top: 12px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: aliceblue;
+}
+
+#b1 {
+  margin-left: 10px;
+  padding: 8px;
+  width: 100px;
+}
+#b2 {
+  margin-left: 10px;
+  padding: 8px;
+  width: 100px;
+}
+#b3 {
+  margin-left: 10px;
+  padding: 8px;
+  width: 100px;
+}
+
+.dhi {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+/* details styles */
+
+.holder {
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.imd {
+  width: 800px;
+  height: 400px;
+  margin-top: 20px;
+}
+
+.un {
+  margin-top: 10px;
+  margin-left: -35px;
+  margin-right: 300px;
+}
+.ingri li {
+  margin-left: 3px;
+  border: solid 3px;
+  border-color: dimgray;
+  border-radius: 10px;
+  background-color: dimgray;
+  font-size: 14px;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-top: 7px;
+}
+
+.inst {
+  margin-top: 20px;
+}
+ol {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+li {
+  margin-top: 2px;
+}
