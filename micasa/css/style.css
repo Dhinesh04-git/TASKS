@@ -23,7 +23,10 @@ nav {
 }
 
 #feature {
-  scroll-margin-top: 50vh;
+  scroll-margin-top: 8vh;
+}
+#PACKAGES {
+  scroll-margin-top: -93vh;
 }
 
 .nav-left {
