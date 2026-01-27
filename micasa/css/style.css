@@ -21,14 +21,12 @@ nav {
   flex-wrap: wrap;
   width: 100%;
 }
-
 #feature {
   scroll-margin-top: 8vh;
 }
 #PACKAGES {
   scroll-margin-top: -93vh;
 }
-
 .nav-left {
   margin-left: 42px;
 }
@@ -846,4 +844,6 @@ nav {
   .footer-frist-row-icons {
     text-align: center;
   }
+
+  
 }
