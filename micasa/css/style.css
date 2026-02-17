@@ -54,7 +54,6 @@ nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-
   list-style: none;
   margin-top: 5px;
   margin-right: 60px;
@@ -74,6 +73,7 @@ nav {
   margin-top: 20px;
   margin-left: 160px;
 }
+
 .nav-right {
   display: flex;
   flex-wrap: wrap;
